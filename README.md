@@ -16,3 +16,6 @@ The model achieves an accuracy of 91%, indicating strong performance in emotion 
 
 # Installation
 Instructions for setting up the environment, loading models, and running the code are provided in the repository.
+
+# Acknowledgments
+Thanks to my mentors and colleagues for their guidance.
