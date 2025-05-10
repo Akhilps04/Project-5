@@ -19,3 +19,10 @@ Instructions for setting up the environment, loading models, and running the cod
 
 # Acknowledgments
 Thanks to my mentors and colleagues for their guidance.
+
+# Acknowledgments
+Thanks to my mentors and colleagues for their guidance.
+
+# 📄 License
+This project is for academic and demonstration purposes only. Please credit the authors if reused or modified.
+
